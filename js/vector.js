@@ -2,7 +2,8 @@
 // MinuteLabs.io Vector Library
 // author: Jasper Palfree (info@minutelabs.io)
 // For educational use.
-// License
+// Copyright 2020 Jasper Palfree
+// License: GPLv3
 ///////////////////////////////////////////
 
 function _drawArrow(ctx, x, y, length, angle, color){
