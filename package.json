@@ -4,8 +4,6 @@
   "main": "dist/toolkit.cjs.js",
   "module": "dist/toolkit.esm.js",
   "browser": "dist/toolkit.umd.js",
-  "dependencies": {
-  },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^11.0.1",
     "@rollup/plugin-node-resolve": "^7.0.0",
