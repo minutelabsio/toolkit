@@ -213,7 +213,6 @@
     return new Vector(x, y)
   }
 
-  // https://www.brainpickings.org/2019/11/29/paul-sougy/
   var colors = Object.freeze({
     red: '#d20f18' //'#E60F10'
     , crimson: '#640302'
