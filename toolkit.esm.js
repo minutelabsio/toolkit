@@ -1331,4 +1331,4 @@ function createPlot({
   }
 }
 
-export { Stats, VelocityVerlet, createFPSMonitor, createLabel, createPlot, createScale, createSlider, debounce, drawCircle, drawLine, drawLines, forEachPair, getDrawTools, getFnParameters, lerp, onFrame, rescale, rndNorm, throttle };
+export { Stats, V, VelocityVerlet, colors, createFPSMonitor, createLabel, createPlot, createScale, createSlider, debounce, drawCircle, drawLine, drawLines, forEachPair, getDrawTools, getFnParameters, lerp, onFrame, rescale, rndNorm, throttle };

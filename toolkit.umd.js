@@ -1338,7 +1338,9 @@
   }
 
   exports.Stats = Stats;
+  exports.V = V;
   exports.VelocityVerlet = VelocityVerlet;
+  exports.colors = colors;
   exports.createFPSMonitor = createFPSMonitor;
   exports.createLabel = createLabel;
   exports.createPlot = createPlot;
