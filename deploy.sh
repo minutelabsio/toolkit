@@ -9,7 +9,7 @@ set -e
 # yarn build
 
 # navigate into the build output directory
-cd lib
+cd dist
 
 # if you are deploying to a custom domain
 # echo 'www.example.com' > CNAME
