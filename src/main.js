@@ -8,8 +8,8 @@
 import V from './vector'
 import colors from './colors'
 
-export * from './vector'
-export * from './colors'
+export { default as V } from './vector'
+export { default as colors } from './colors'
 
 // -------------------------------------------
 // General Utilities
