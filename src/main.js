@@ -8,6 +8,9 @@
 import V from './vector'
 import colors from './colors'
 
+export * from './vector'
+export * from './colors'
+
 // -------------------------------------------
 // General Utilities
 // -------------------------------------------
